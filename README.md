@@ -4,3 +4,5 @@
 
 - [Диаграмма деятельности (Activity Diagram)](docs/activity.md)
 - [Диаграмма последовательности (Sequence Diagram)](docs/sequence.md)
+
+![Activity Diagram](images/activity.png)
