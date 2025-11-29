@@ -22,3 +22,4 @@
 
 - [Диаграмма деятельности (Activity Diagram)](docs/activity.md)
 - [Диаграмма последовательности (Sequence Diagram)](docs/sequence.md)
+
